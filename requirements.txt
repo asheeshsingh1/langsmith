@@ -1,0 +1,8 @@
+dotenv
+langchain
+langchain_google_genai
+langchain_community
+pypdf
+langchain_openai
+faiss-cpu==1.15.1
+ddgs
